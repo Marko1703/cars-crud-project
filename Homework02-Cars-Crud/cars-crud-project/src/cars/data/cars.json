@@ -1,0 +1,32 @@
+[
+  {
+    "id": "CAR001",
+    "make": "Toyota",
+    "model": "Camry",
+    "year": 2023
+  },
+  {
+    "id": "CAR002",
+    "make": "Honda",
+    "model": "Civic",
+    "year": 2022
+  },
+  {
+    "id": "CAR003",
+    "make": "Ford",
+    "model": "F-150",
+    "year": 2024
+  },
+  {
+    "id": "CAR004",
+    "make": "Chevrolet",
+    "model": "Silverado",
+    "year": 2021
+  },
+  {
+    "id": "08c2597f-42b6-4d5a-9e32-1d7e68216e59",
+    "make": "BMW",
+    "model": "5 series",
+    "year": 2017
+  }
+]
